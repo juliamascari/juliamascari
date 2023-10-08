@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá! 👋
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Iniciante, cursando Sistemas de Informação na PUC
 
 
-## 🌐 Socials:
+## 🌐 Redes Socias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliamascari_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliapmascari) 
 
 # 💻 Tech Stack:
@@ -17,7 +17,7 @@ Iniciante, cursando Sistemas de Informação na PUC
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juliamascari&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
